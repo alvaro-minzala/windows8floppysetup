@@ -1,0 +1,27 @@
+@echo Welcome to Windows 8.1 Floppy Setup(CD 2, installation from winrar or 7-Zip)!
+@echo Windows 8.1 Floppy Setup by Álvaro Minzala is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0
+@echo Windows 8.1 Floppy Setup is not created by Microsoft and/or its affiliates. Is created by a Community of Microsoft software
+start diskpart
+@echo Waiting, when finished diskpart press any key for continue...
+D:
+cd Users
+cd Public
+cd Desktop
+@echo Now, Setup will create a directory where you will extract the floppies' content called wininstall
+mkdir wininstall
+@echo The directory was created, when extracted all the files press any key to start applying the install.wim image...
+pause
+Now proceeding to apply image...(this might take a few minutes and DON'T TURN OFF YOUR PC.)
+pause
+cd wininstall
+dism /apply-image /imagefile:install.wim /index:1 /applydir:C:\
+@echo Now proceeding to copy boot files(DON'T TURN OFF YOUR PC)
+pause
+bcdboot C:\Windows /s W: /f ALL
+@echo Removing any temporary files used during installation(When solicited press the first letter of the word "Yes" of your language)
+del wininstall
+@echo Windows 8.1 is correcly installed in your computer.
+@echo [!] Remember to activate your Windows copy with your product key.
+@echo [X] press anywhere to reboot...
+pause
+winpeutil reboot

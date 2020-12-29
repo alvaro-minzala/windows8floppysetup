@@ -1,0 +1,7412 @@
+@echo Welcome to Windows 8.1 Floppy Setup(Disc 1, native installation)!
+@echo Windows 8.1 Floppy Setup by Álvaro Minzala is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0
+@echo Windows 8.1 Floppy Setup is not created by Microsoft and/or its affiliates. Is created by a Community of Microsoft software
+start diskpart
+@echo Waiting, when finished diskpart press any key for continue...
+pause
+C:
+mkdir wininstall
+A:
+@echo [!] Place Disk 1 into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place next Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Place last Disk into the A: drive.
+pause
+copy * C:\wininstall
+@echo [!] Copying Complete.
+@echo Now proceeding to apply image...(this might take a few minutes and DON'T TURN OFF YOUR PC.)
+pause
+C:
+cd wininstall
+dism /apply-image /imagefile:install.wim /index:1 /applydir:C:\
+@echo Now proceeding to copy boot files(DON'T TURN OFF YOUR PC)
+pause
+bcdboot C:\Windows /s W: /f ALL
+@echo Removing any temporary files used during installation(when solicited press the first letter of the word "Yes" of your language)(For deleting directory go to C: with the installed system)
+del C:\wininstall
+@echo Windows 8.1 is correctly installed in your computer.
+@echo [!] Remember to activate your Windows copy with your product key.
+@echo [!] Quit all floppies from drive A:
+@echo Press anywhere to reboot...
+pause
+wpeutil reboot
